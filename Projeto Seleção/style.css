@@ -1,0 +1,67 @@
+.menu{
+
+		list-style-type:none;
+		margin:0;
+		padding:0;
+		overflow: hidden;
+		background-color:#blue;
+
+		float: left;
+
+		display:block;
+		color: white;
+		text-align: center;
+		padding: 18px 35px;
+		text-decoration: white;
+
+		background-color:#87CEEB;
+
+		border-right: 1px solid #fff;
+
+		display: flex;
+		justify-content: space-between;
+
+		position: sticky;
+		position: -webkit-sticky;
+		top: 0;
+
+
+		
+
+	}
+
+	.paragrafo{
+
+		font-family:Aril, Verdana, sans-serif;
+    	 margin: 35px 35px 25px
+	}
+
+	.back {
+
+		background-color:#e6f7ff;
+	}
+
+	.center {
+
+		text-align:center;
+		width:50%;
+		height:auto;
+		margin:55px 250px 25px;
+
+	}
+
+	.head {
+
+		margin: 35px 35px 25px
+	}
+
+	
+
+		
+
+
+
+	
+
+
+
